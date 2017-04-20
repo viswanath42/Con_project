@@ -1,2 +1,0 @@
-# conduent
-nexsolv
