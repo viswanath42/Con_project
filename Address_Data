@@ -1,0 +1,25 @@
+{
+  "firstName":"Mary",
+  "lastName":"Smith",
+  "isAlive":true,
+  "age":25,
+  "height_cm":167.6,
+  "address": {
+     "StreetAddress": "21 2nd Street",
+	 "City": "New York",
+	 "State": "NY",
+	 "Postal Code": "10021-3100"
+    },
+	"Phone Numbers" : [
+	    { 
+	      "type" : "home",
+		  "number": "212 555-1234"
+	    },
+		{
+		  "type": "office",
+		  "number": "646 555-0987"
+		 }
+	],
+	"children": [],
+	"spouse": null
+}
